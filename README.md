@@ -36,7 +36,7 @@ async function onOpenCvLoaded() {
 ### CDN Usage
 
 ```html
-<script async src="https://cdn.jsdelivr.net/gh/sachabaclet/opencvlsd@main/opencv.js"></script>
+<script async src="https://cdn.jsdelivr.net/gh/sachabaclet/opencvlsd@main/4.13/opencv.js"></script>
 ```
 
 ## API Reference
