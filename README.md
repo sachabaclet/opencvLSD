@@ -85,7 +85,7 @@ for (let i = 0; i < lines.rows; i++) {
 ## Building from Source
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/opencvlsd.git
+git clone https://github.com/sachabaclet/opencvlsd.git
 cd opencvlsd
 bash build_with_lsd.sh
 ```
